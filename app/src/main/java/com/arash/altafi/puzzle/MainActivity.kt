@@ -1,8 +1,8 @@
-package com.example.puzzle
+package com.arash.altafi.puzzle
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.puzzle.databinding.ActivityMainBinding
+import com.arash.altafi.puzzle.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.example.puzzle.utils
+package com.arash.altafi.puzzle.utils
 
 import android.annotation.SuppressLint
 import android.content.Context

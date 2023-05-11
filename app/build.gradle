@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.puzzle'
+    namespace 'com.arash.altafi.puzzle'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.puzzle"
+        applicationId "com.arash.altafi.puzzle"
         minSdk 21
         targetSdk 33
         versionCode 1

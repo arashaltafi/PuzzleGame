@@ -1,4 +1,4 @@
-package com.example.puzzle
+package com.arash.altafi.puzzle
 
 import android.app.AlertDialog
 import android.os.Bundle
@@ -8,8 +8,8 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
-import com.example.puzzle.databinding.FragmentPuzzleBinding
-import com.example.puzzle.utils.PuzzleBoardView
+import com.arash.altafi.puzzle.databinding.FragmentPuzzleBinding
+import com.arash.altafi.puzzle.utils.PuzzleBoardView
 
 class PuzzleFragment : Fragment() {
 

@@ -1,4 +1,4 @@
-package com.example.puzzle
+package com.arash.altafi.puzzle
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
-import com.example.puzzle.databinding.FragmentMainBinding
+import com.arash.altafi.puzzle.databinding.FragmentMainBinding
 
 class MainFragment : Fragment() {
 

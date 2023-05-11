@@ -1,10 +1,10 @@
-package com.example.puzzle.utils
+package com.arash.altafi.puzzle.utils
 
 import android.content.Context
 import android.graphics.Canvas
 import android.graphics.Paint
 import androidx.core.content.ContextCompat
-import com.example.puzzle.R
+import com.arash.altafi.puzzle.R
 
 class PuzzleBlock(
     private val context: Context,
